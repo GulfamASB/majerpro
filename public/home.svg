@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg1"
+    sodipodi:docname="movie_fudriot_omic.ch_01.svg"
+    inkscape:export-filename="C:\joanna\Gfx\drawings_vector\admin\thumbs\fudriot@omic.ch\movie_fudriot_omic.ch_01_ok.png"
+    viewBox="0 0 86.63 86.827"
+    sodipodi:version="0.32"
+    inkscape:export-xdpi="207.78055"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:export-ydpi="207.78055"
+    inkscape:version="0.46"
+    sodipodi:docbase="D:\DocFabien\robotique\cd\image\inkscape\openClipart"
+  >
+  <defs
+      id="defs3"
+    >
+    <linearGradient
+        id="linearGradient105"
+        y2="1261"
+        gradientUnits="userSpaceOnUse"
+        y1="1261"
+        gradientTransform="matrix(1.1503 0 0 0.55 -211.53 -624.67)"
+        x2="245.33"
+        x1="178.84"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop176"
+          style="stop-color:#e03c2c"
+          offset="0"
+      />
+      <stop
+          id="stop177"
+          style="stop-color:#ffffb4"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient108"
+        y2="2697.3"
+        gradientUnits="userSpaceOnUse"
+        y1="2631.2"
+        gradientTransform="matrix(2.4715 0 0 .24639 -211.51 -600.87)"
+        x2="98.904"
+        x1="98.995"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop172"
+          style="stop-color:#32280e"
+          offset="0"
+      />
+      <stop
+          id="stop173"
+          style="stop-color:#32280e;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-width="758"
+      pagecolor="#ffffff"
+      inkscape:zoom="5.8392255"
+      inkscape:window-x="9"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="svg1"
+      inkscape:cx="43.31493"
+      inkscape:cy="43.413292"
+      inkscape:window-y="23"
+      inkscape:window-height="712"
+      inkscape:pageopacity="0.0"
+  />
+  <path
+      id="path258"
+      sodipodi:rx="7.7173915"
+      sodipodi:ry="7.7173915"
+      style="fill:#000000"
+      sodipodi:type="arc"
+      d="m268.26 821.17a7.7174 7.7174 0 1 1 -15.43 0 7.7174 7.7174 0 1 1 15.43 0z"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      sodipodi:cy="821.1665"
+      transform="matrix(.77750 -.11870 .13485 .76245 -302.93 -549.88)"
+      inkscape:export-xdpi="90.000000"
+      sodipodi:cx="260.54349"
+  />
+  <rect
+      id="rect254"
+      style="fill:#000000"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      transform="matrix(.84375 -.53674 .64314 .76575 0 0)"
+      height="7.214"
+      width="76.246"
+      inkscape:export-xdpi="90.000000"
+      y="35.032"
+      x="-26.266"
+  />
+  <rect
+      id="rect16"
+      style="fill:#775f21"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      transform="matrix(.84375 -.53674 .64314 .76575 0 0)"
+      height="7.214"
+      width="76.246"
+      inkscape:export-xdpi="90.000000"
+      y="36.976"
+      x="-28.185"
+  />
+  <rect
+      id="rect249"
+      style="fill:#000000"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      transform="matrix(.98765 -.15668 .16779 .98582 0 0)"
+      height="36.567"
+      width="76.478"
+      inkscape:export-xdpi="90.000000"
+      y="47.393"
+      x="-3.0289"
+  />
+  <rect
+      id="rect253"
+      style="fill:#000000"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      transform="matrix(.98855 -.15092 .17416 .98472 0 0)"
+      height="7.6174"
+      width="76.409"
+      inkscape:export-xdpi="90.000000"
+      y="47.445"
+      x="-2.7737"
+  />
+  <rect
+      id="rect11"
+      style="fill:url(#linearGradient105)"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      transform="matrix(.98765 -.15668 .16779 .98582 0 0)"
+      height="36.567"
+      width="76.478"
+      inkscape:export-xdpi="90.000000"
+      y="50.584"
+      x="-5.8125"
+  />
+  <rect
+      id="rect15"
+      style="fill:url(#linearGradient108)"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      transform="matrix(.98855 -.15092 .17416 .98472 0 0)"
+      height="7.6174"
+      width="76.409"
+      inkscape:export-xdpi="90.000000"
+      y="50.185"
+      x="-5.4955"
+  />
+  <path
+      id="path60"
+      sodipodi:rx="7.7173915"
+      sodipodi:ry="7.7173915"
+      style="fill:#e35845"
+      sodipodi:type="arc"
+      d="m268.26 821.17a7.7174 7.7174 0 1 1 -15.43 0 7.7174 7.7174 0 1 1 15.43 0z"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      sodipodi:cy="821.1665"
+      transform="matrix(.77750 -.11870 .13485 .76245 -305.88 -549.25)"
+      inkscape:export-xdpi="90.000000"
+      sodipodi:cx="260.54349"
+  />
+  <path
+      id="path61"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m14.667 49.711c1.412 1.692 0.709 5.381 3.426 5.495 0.115 0.005 0.187 0.132 0.281 0.198"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path62"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m18.418 50.101c1.475 0.062 0.499 3.001 1.463 4.11 0.212 0.243 0.638-0.097 0.956-0.146"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path63"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m22.638 48.975c0.539 0.621 2.213 4.435 2.263 4.47 0.148 0.104-0.291 0.205-0.437 0.307"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path64"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m30.733 48.943c1.192 0.841-2.751 1.534-3.171 2.892-0.332 1.074 0.101 0.706 0.842 0.593"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path66"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m36.262 46.895c-0.524 1.698-2.202 1.428-1.602 4.819"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path67"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m32.167 48.724c0.299 1.692 1.115 3.374-0.968 4.241-0.166 0.068-0.291 0.205-0.437 0.307"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path68"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m39.733 47.088c-1.851 0.769-0.433 3.892-2.361 4.693"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path69"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m35.753 48.177c-1.26 0.524 2.665-0.648 4.022-0.855"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path70"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m41.645 46.796c0.93-0.142 1.424 3.885 1.63 5.047"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path71"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m44.202 47.368c1.889-0.288 2.433 1.45 0.497 2.813"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path72"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m47.943 46.316c1.039-0.159-0.532 2.088-0.822 2.292"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path73"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m48.358 48.66c1.141-0.174 2.229 0.651 3.356 0.932"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path74"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m51.009 45.607c0.336-0.051 1.836 1.706 2.888 2.448"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path75"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m55.063 43.544c1.412 1.692 0.709 5.381 3.427 5.495 0.114 0.005 0.187 0.132 0.28 0.198"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path76"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.21263pt;fill:#000000"
+      d="m61.468 45.214c-2.245 0.343-2.205 2.158 0.497 2.813"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path77"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m16.689 36.162c1.89-0.289 2.434 1.45 0.498 2.813"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path78"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m67.461 42.855c0.336-0.052 1.836 1.705 2.888 2.448"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path79"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m65.746 42.876c-1.851 0.769-0.433 3.891-2.361 4.693"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path80"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m61.765 43.965c-1.259 0.524 2.666-0.648 4.023-0.855"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path81"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m67.658 42.584c0.929-0.142 1.424 3.885 1.629 5.047"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path82"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m70.214 43.156c1.89-0.288 2.434 1.45 0.498 2.813"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path83"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m73.956 42.104c1.038-0.159-0.532 2.088-0.822 2.292"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path84"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m74.371 44.448c1.14-0.174 2.229 0.651 3.356 0.932"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path85"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m13.554 50.362c-0.524 1.698-2.202 1.428-1.602 4.819"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path86"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m9.4592 52.191c0.2992 1.692 1.1148 3.374-0.9684 4.24-0.1654 0.069-0.2911 0.205-0.4366 0.308"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path87"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m27.241 27.81c-1.851 0.77-0.433 3.892-2.361 4.694"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path88"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m13.045 51.644c-1.26 0.523 2.665-0.648 4.022-0.855"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path89"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m43.433 45.801c0.54 0.62 2.214 4.434 2.264 4.469 0.147 0.104-0.291 0.205-0.437 0.307"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path90"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m34.329 26.247c1.192 0.841-2.751 1.533-3.171 2.891-0.332 1.075 0.101 0.707 0.841 0.594"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path91"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m55.146 44.013c-0.525 1.697-2.202 1.428-1.603 4.818"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path92"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m37.053 22.22c0.3 1.692 1.115 3.374-0.968 4.24-0.165 0.069-0.291 0.205-0.437 0.307"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path93"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m43.373 19.088c-1.851 0.77-0.433 3.892-2.361 4.694"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path94"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m56.548 45.002c-1.259 0.524 2.665-0.648 4.022-0.855"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path95"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m55.086 12.574c2.018 0.18 2.261-3.2015 4.364-3.0139"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path96"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m49.091 15.327c-0.656-1.284 3.188-0.073 4.216-1.066 0.813-0.787 0.25-0.665-0.463-0.907"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path97"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m44.808 18.059c0.549-1.616 0.633-3.462 2.905-3.259 0.181 0.016 0.358-0.045 0.537-0.068"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path98"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m18.887 35.197c2.018 0.18 2.26-3.202 4.363-3.015"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path101"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m50.93 16.009c1.191 0.841-2.752 1.533-3.171 2.891-0.332 1.075 0.101 0.707 0.841 0.594"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path102"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m15.296 36.615c-1.85 0.77-0.432 3.892-2.361 4.694"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <path
+      id="path103"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:.19506pt;fill:#000000"
+      d="m61.409 7.8216c0.548-1.6166 0.633-3.4623 2.905-3.2596 0.18 0.016 0.358-0.045 0.537-0.0675"
+      inkscape:export-ydpi="90.000000"
+      inkscape:export-filename="D:\DocFabien\robotique\cd\image\inkscape\video4.png"
+      inkscape:export-xdpi="90.000000"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Movie slate</dc:title
+        >
+        <dc:date
+          >2009-04-03T18:08:30</dc:date
+        >
+        <dc:description
+          >"Movie" drawing by fudriot. From old OCAL site.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/23958/movie-slate-by-anonymous-23958</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >cinema</rdf:li
+            >
+            <rdf:li
+              >movie</rdf:li
+            >
+            <rdf:li
+              >slate</rdf:li
+            >
+            <rdf:li
+              >video</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
